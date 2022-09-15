@@ -1,0 +1,10 @@
+name: CommandsPlugin
+version: '${project.version}'
+main: me.shadow_warrior_.commandsplugin.CommandsPlugin
+api-version: 1.16
+authors: [ shadow_warrior_ ]
+description: Commands plugin
+commands:
+  die:
+    description: An easy way to kill yourself
+    usage: /<command>
